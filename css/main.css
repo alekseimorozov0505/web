@@ -1,0 +1,43 @@
+@font-face{
+	font-family: 'laptev';
+	src: url('../font/laptev.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+h1{
+	color: #ff0000;
+	font-size: 48px;
+	font-family: 'Cormorant Infant', serif;
+}
+p{
+	color:  #8b00ff ;
+	font-size: 32px;
+	font-family: 'Playfair Display', serif;
+}
+span{
+	background:  #00d771;
+}
+a{
+	text-decoration: none;
+	color: tomato;
+	font-size: 30px;
+	font-family: 'laptev': normal;
+	display: block;
+	margin: 20px 0;
+}
+div{
+	width: 75%;
+	margin: auto;
+	background-color: #00f3ff;
+	padding: 50px;
+}
+img{
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 5px 0;
+}
+body{
+	font-size: 20px;
+	background-color: #2b18e9;
+}
