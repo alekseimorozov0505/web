@@ -5,7 +5,7 @@
 	font-style: normal;
 }
 h1{
-	color: #ff0000;
+	color: black;
 	font-size: 48px;
 	font-family: 'Cormorant Infant', serif;
 }
@@ -15,7 +15,7 @@ p{
 	font-family: 'Playfair Display', serif;
 }
 span{
-	background:  #00d771;
+	background:  black;
 }
 a{
 	text-decoration: none;
